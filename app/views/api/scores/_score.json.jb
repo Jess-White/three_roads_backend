@@ -1,0 +1,6 @@
+{
+    id: score.id,
+    username: score.username,
+    correct: player.correct,
+    incorrect: player.incorrect
+}

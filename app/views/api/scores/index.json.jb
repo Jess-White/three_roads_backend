@@ -1,0 +1,3 @@
+@scores.map do |score|
+  render partial: "score.json.jb", locals: {score: score}
+end
